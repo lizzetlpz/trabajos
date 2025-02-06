@@ -1,0 +1,8 @@
+switch (1,5)
+{
+1 {"[$_] es uno."}
+2 {"[$_] es dos."}
+3 {"[$_] es tres."}
+4 {"[$_] es cuatro."}
+5 {"[$_] es cinco."}
+}
